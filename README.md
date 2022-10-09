@@ -17,11 +17,12 @@ You can click the Preview link to take a look at your changes.
 
 ---
 <p  align="center">
-### 🔥 &nbsp; My Stats :
-[![Toobas's github stats](https://github-readme-stats.vercel.app/api?username=Tooba-Tariq&theme=gotham)](https://github.com/Tooba-Tariq/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tooba-Tariq&theme=dark&background=000000)](https://git.io/streak-stats)
-
+### 🔥 &nbsp; My Stats :</p>
+          <p  align="center">
+[![Toobas's github stats](https://github-readme-stats.vercel.app/api?username=Tooba-Tariq&theme=gotham)](https://github.com/Tooba-Tariq/github-readme-stats)</p>
+<p  align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tooba-Tariq&theme=dark&background=000000)](https://git.io/streak-stats)</p>
+<p  align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tooba-Tariq&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 ---
