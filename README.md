@@ -1,6 +1,12 @@
 <p  align="center">
           <a href="https://riftcodes.web.app/"><img src="https://user-images.githubusercontent.com/89972827/194366722-c92bb149-56c2-429a-a533-efdbbc18cd68.png" alt="RIFTCODE web"></a></p>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=faizanMayo786&style=flat-square&color=blue" alt=""></p>
+
+<h1 align="center">Hey There! I am Faizan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
 - 👋 Hi, I’m @Tooba-Tariq
 I am a developer with several years of front-end development experience. I love writing flutter code. I developed a Restaurant Food Delivery App and several apps.
 Other than Flutter I have experience in UI / UX development.
